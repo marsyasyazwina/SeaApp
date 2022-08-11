@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SeaApp</string>
+    <string name="animals_name">Animals name</string>
+    <string name="animals_food">animals food</string>
+    <string name="animals_description">animals description</string>
+    <string name="username_id">Marsyasyazwina</string>
+    <string name="email_user">marsyasyazwina196@gmail.com</string>
+    <string name="profile_user">Profile</string>
+    <string name="list">List</string>
+</resources>
